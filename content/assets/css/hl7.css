@@ -10,8 +10,9 @@
   }
   #egde-nav {
     line-height: 50px;
-    float: center;
+    float: left;
     margin-top: 4px;
+    margin-right: 50px;
    
   }
   /* Generic settings common to all HL7 IGs */
