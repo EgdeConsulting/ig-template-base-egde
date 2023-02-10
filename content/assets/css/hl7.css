@@ -8,6 +8,12 @@
   .navbar-inverse .navbar-nav > li > a:hover {
     background-color: #808080;
   }
+  #egde-nav {
+    line-height: 50px;
+    float: center;
+    margin-top: 4px;
+   
+  }
   /* Generic settings common to all HL7 IGs */
   #hl7-nav {
     line-height: 50px;
